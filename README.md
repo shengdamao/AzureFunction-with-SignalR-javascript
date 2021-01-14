@@ -4,6 +4,7 @@ Reference
 
 Tutorial Document :
 https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-tutorial-authenticate-azure-functions
+
 QuickStart Document:
 https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript
 
