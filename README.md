@@ -9,7 +9,7 @@ QuickStart Document:
 https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript
 
 
-The QuickStart document Github failed to work without changes, may due to runtime version changes. 
+The QuickStart document Github Repo failed to work without changes, may due to runtime version changes. 
 
 Detailed Steps for local project. 
 
